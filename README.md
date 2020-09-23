@@ -29,6 +29,6 @@ que se encontra em server.js:
 	"message":"Test"
 }
 ```
-* Para rodar a aplicação localmente node o comando ```npm start```
+* Para rodar a aplicação localmente rode o comando ```npm start```
 * Caso não tenha conhecimento em como utlizar as ferramentas postman ou insomnia, ou não tenha conhecimento da biblioteca nodemailer, sugiro que leia e estude antes a documentação
 dos mesmos.
