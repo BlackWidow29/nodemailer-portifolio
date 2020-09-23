@@ -1,5 +1,10 @@
 # nodemailer-portifolio
 * Servidor para envio de e-mail
+* node 
+* express
+* nodemailer
+* nodemon
+* body-parser
 
 # Instruções
 * Para rodar esse servidor você deve ter instalado em sua máquina o node e o gerenciador de pacotes npm
