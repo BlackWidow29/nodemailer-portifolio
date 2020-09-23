@@ -26,7 +26,7 @@ app.post("/sendemail", (req, res) => {
 
     const mailOptions = {
         from: email,
-        to: 'isabelly.developer@gmail.com',
+        to: 'youremail',
         subject: subject,
         text: email + " \n" + name + " \n" + telephone + " \n" + message
     }
